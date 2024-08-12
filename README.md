@@ -30,14 +30,14 @@ A simple blog platform built with Node.js, Express.js, EJS, and MongoDB. The web
    
 2.  **Install dependencies:**
     ```bash
-   npm install
+    npm install
    
 3.  **Set up environment variables:**
     ```bash
-   PORT=3000
-   MONGO_URI=your_mongodb_uri
-   JWT_SECRET=your_jwt_secret
+    PORT=3000
+    MONGO_URI=your_mongodb_uri
+    JWT_SECRET=your_jwt_secret
    
 4.  **Run the application:**
    ```bash
-   npm run dev
+    npm run dev
